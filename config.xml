@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "com.appheater.oliphi"
-    versionCode = "12"
-    version     = "1.2" >
+    versionCode = "121"
+    version     = "1.2.1" >
   <preference name="phonegap-version" value="3.5.0" /> 
   <name>爐心私語</name>
   <description>擦過身邊事物太多,而時間太少;用相片,用文字一一記低,作為美好的回憶</description>
