@@ -12,8 +12,8 @@
   <preference name="DisallowOverscroll" value="true" />
   <preference name="InAppBrowserStorageEnabled" value="true"/>    
   <preference name="webviewbounce" value="false" />  
-  <preference name="SplashScreenDelay" value="1000"/>  
-  <gap:splash src="splash.png" width="320" height="480" />
+  <preference name="SplashScreenDelay" value="0"/>
+  <preference name="LoadingDialog" value="爐心私語,擦過身邊事物太多,而時間太少;用相片,用文字一一記低,作為美好的回憶"/>  
   <icon src="icons/apple-touch-icon-57-precomposed.png" gap:platform="ios" width="57" height="57" />
   <icon src="icons/apple-touch-icon-72-precomposed.png" gap:platform="ios" width="72" height="72" />
   <icon src="icons/apple-touch-icon-114-precomposed.png" gap:platform="ios" width="114" height="114" />
