@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" ?><widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "com.appheater.oliphi"
-    versionCode = "10"
-    version     = "1.0" >
+    versionCode = "130"
+    version     = "1.3.0" >
   <preference name="phonegap-version" value="3.5.0" /> 
   <name>爐心私語</name>
   <description>擦過身邊事物太多,而時間太少;用相片,用文字一一記低,作為美好的回憶</description>
   <author href="http://webscrew.com" email="alankwok@yahoo.com">webscrew.com</author>
-  <gap:platform name="android" />    
-  <preference name="disallowOverscroll" value="true" />
+  <gap:platform name="android" />
+  <preference name="permissions" value="none" />
+  <preference name="DisallowOverscroll" value="true" />
+  <preference name="KeepRunning" value="false"/>
+  <preference name="LoadUrlTimeoutValue" value="10000"/>
+  <preference name="SplashScreen" value="mySplash"/>
+  <preference name="SplashScreenDelay" value="3000"/>
+  <preference name="InAppBrowserStorageEnabled" value="true"/>
+  <preference name="LoadingDialog" value="My Title,My Message"/>
   <preference name="webviewbounce" value="false" />  
   <icon src="icons/apple-touch-icon-57-precomposed.png" gap:platform="ios" width="57" height="57" />
   <icon src="icons/apple-touch-icon-72-precomposed.png" gap:platform="ios" width="72" height="72" />
