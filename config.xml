@@ -12,7 +12,7 @@
   <preference name="DisallowOverscroll" value="true" />
   <preference name="KeepRunning" value="false"/>
   <preference name="LoadUrlTimeoutValue" value="10000"/>
-  <preference name="SplashScreen" value="mySplash"/>
+  <preference name="SplashScreen" value="icons/android-xhdpi.png" />
   <preference name="SplashScreenDelay" value="3000"/>
   <preference name="InAppBrowserStorageEnabled" value="true"/>
   <preference name="LoadingDialog" value="My Title,My Message"/>
